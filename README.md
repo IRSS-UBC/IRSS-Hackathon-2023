@@ -1,5 +1,11 @@
 # IRSS-Hackathon-2023
 
+
+# Datasets
+
+1. NYC Squirrel Census
+
+
 # Brainstorming ideas
 
 - Only open source software allowed
