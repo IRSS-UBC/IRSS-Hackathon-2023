@@ -22,4 +22,6 @@ Joinable information on habitats, other animals (cat, dog, humans), and if the b
 - Do some statistics
 - Present it in a 3MT format
 
-Happy hacking!
+## We vote on the best hacking team
+
+## Happy hacking!
