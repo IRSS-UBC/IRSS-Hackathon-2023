@@ -1,6 +1,6 @@
 # IRSS-Hackathon-2023
 
-![image](slides\Slide1.JPG)
+<img src="slides\Slide1.JPG" alt="bird" width="400"/>
 
 ## Dataset
 
@@ -13,6 +13,7 @@ Information on location, date, species, number of birds, time of day
 
 Joinable information on habitats, other animals (cat, dog, humans), and if the bids have been fed (and when)
 
+
 [Original tidy tuesday github page](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-10/readme.md)
 
 ## Tasks
@@ -22,6 +23,6 @@ Joinable information on habitats, other animals (cat, dog, humans), and if the b
 - Do some statistics
 - Present it in a 3MT format
 
-## We vote on the best hacking team
+## We will vote on the best hacking team
 
 ## Happy hacking!
