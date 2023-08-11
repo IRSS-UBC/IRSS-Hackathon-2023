@@ -37,4 +37,4 @@ Anonymous vote for best hacking team after presentations based on the overall qu
 ## Publishing
 After the competition, the code developed by each group will be uploaded to this github repo
 
-##Happy hacking!
+## Happy hacking!
