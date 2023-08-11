@@ -1,6 +1,6 @@
 # IRSS-Hackathon-2023
 
-<img src="slides\Slide1.JPG" alt="bird" width="400"/>
+<img src="slides\Slide1.JPG" alt="bird" width="600"/>
 
 ## Dataset
 
@@ -16,13 +16,25 @@ Joinable information on habitats, other animals (cat, dog, humans), and if the b
 
 [Original tidy tuesday github page](https://github.com/rfordatascience/tidytuesday/blob/master/data/2023/2023-01-10/readme.md)
 
-## Tasks
+## Required Tasks
+- Make a story
+- Write some code
+- Do some statistics
 - Make a plot
 - Make a map
-- Make a story
-- Do some statistics
-- Present it in a 3MT format
 
-## We will vote on the best hacking team
+## Presentations
+- Each group will present for 4 minutes
+- 4 slides allowed:
+    1. Background
+    2. Methods
+    3. Results
+    4. Discussion
 
-## Happy hacking!
+## Winning
+Anonymous vote for best hacking team after presentations based on the overall quality of the analysis.
+
+## Publishing
+After the competition, the code developed by each group will be uploaded to this github repo
+
+##Happy hacking!
