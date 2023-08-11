@@ -2,6 +2,10 @@
 
 <img src="slides\Slide1.JPG" alt="bird" width="600"/>
 
+## Groups
+
+There are 9 groups randomly generated in the assign_groups.R script. See groups.csv for group members.
+
 ## Dataset
 
 Birds, birds, birds!
